@@ -1,8 +1,8 @@
 # NETFLIX CLONE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##To view this project 
-open .[https://netflix-xlone-6597f.web.app/] to view in your browser.
+## To view this project 
+open [Netflix Clone](https://netflix-xlone-6597f.web.app/)  to view in your browser.
 ## Available Scripts
 
 In the project directory, you can run:
